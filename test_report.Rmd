@@ -1,0 +1,29 @@
+---
+title: "Untitled"
+output: pdf_document
+---
+
+Setup
+
+```{r setup, include=FALSE, echo=TRUE}
+library(reticulate)
+```
+
+R code
+
+```{r}
+x <- c(1, 2, 3)
+x
+```
+
+Python code
+
+```{python}
+x = 3
+x
+```
+test
+
+```{python}
+print(x)
+```

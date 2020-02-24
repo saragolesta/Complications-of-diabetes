@@ -1,3 +1,5 @@
+The purpose of this project is to classify diabetic patients that were readmtted within 30 days and to interpret important features that could affect readmission.
+
 This project was done in two languages R and Python.
 To read the dataset have the diabetic_data.csv in the same folder as the Preprocess.ipynb file. Preprocess.ipynb cleans the data and generates two files: preprocessed.csv and combined.csv.
 
